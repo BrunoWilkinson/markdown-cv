@@ -1,91 +1,51 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bruno Wilkinson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Bruno Wilkinson
+Game Programmer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="bruno.wilkinson@gmail.com">bruno.wilkinson@gmail.com</a>
+| <a href="https://brunowilkinson.itch.io/">Porfolio</a>
+| <a href="https://brunowilkinson.itch.io/">Github</a>
+| <a href="https://www.linkedin.com/in/brunowilkinson/">Linkedin</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Working at Omeda Studio as an UI Engineer.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Unreal engine and UI engineering
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Programming, game design, video games, storytelling, math, fitness
 
+## Experience
 
-## Education
+`Nov 2022 - Now`
+UI Engineer, Omeda Studio, Remote
 
-`1654-1660`
-__The King's School, Grantham.__
+`Jul 2022 - Nov 2022`
+Resident Game Programmer, Mastered, Remote
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Developed the project under the guidance of my mentor to apply industry standard practices.
+- Focus my learning on skills related to the video game industry, such as 3D maths, programming and the Unreal Engine 
+- Helping me with my career transition and become job ready.
 
-- Sizar
+`May 2015 - May 2022`
+Full Stack Web Developer, Various Comapanies and Freelance, Remote and On-Site
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Being involved in the decisions of the code architecture of the project.
+- Consistent code reviews of other engineers within my team.
+- Doing research and presenting it in a clear manner back to the team.
+- Work in agile development
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2025 -->
 
 
