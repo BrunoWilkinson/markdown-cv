@@ -27,17 +27,19 @@ Programming, game design, video games, storytelling, math, fitness
 ## Experience
 
 `Nov 2022 - Now`
-UI Engineer, Omeda Studio, Remote
+**UI Engineer, Omeda Studio, Remote**
 
+---
 `Jul 2022 - Nov 2022`
-Resident Game Programmer, Mastered, Remote
+**Resident Game Programmer, Mastered, Remote**
 
 - Developed the project under the guidance of my mentor to apply industry standard practices.
 - Focus my learning on skills related to the video game industry, such as 3D maths, programming and the Unreal Engine 
 - Helping me with my career transition and become job ready.
 
+---
 `May 2015 - May 2022`
-Full Stack Web Developer, Various Comapanies and Freelance, Remote and On-Site
+**Full Stack Web Developer, Various Comapanies and Freelance, Remote and On-Site**
 
 - Being involved in the decisions of the code architecture of the project.
 - Consistent code reviews of other engineers within my team.
@@ -47,5 +49,3 @@ Full Stack Web Developer, Various Comapanies and Freelance, Remote and On-Site
 <!-- ### Footer
 
 Last updated: Jan 2025 -->
-
-
