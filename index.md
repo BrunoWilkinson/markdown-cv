@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Bruno Wilkinson's CV
+title: Bruno Wilkinson
 ---
 # Bruno Wilkinson
 Game Programmer
