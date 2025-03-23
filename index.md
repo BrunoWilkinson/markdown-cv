@@ -33,16 +33,17 @@ Programming, game design, video games (specially RTS, ARPG, RPG), storytelling, 
 - Identifying workflow improvements
 - Organising code refactor
 - Implementing different features in parallel
-- Working with multiple departments (, Art, Prod, QA and Sound)
-- Find technical solution for features requested by design, to achieve the best player experience
+- Working with multiple departments (Design, Art, Prod, QA and Sound)
+- Find technical solutions for features requested by design, to achieve the best player experience
 - Plan and estimate the work
 
 `Nov 2022 - Jul 2023`
 **Junior UI Engineer, Omeda Studio, Remote**
 
-- Explore Unreal Engine code
+- Explore Unreal Engine source code
 - Perforce discovery
 - Code reviews
+- Documentation
 - Research and learning
 
 `Jul 2022 - Nov 2022`
@@ -55,13 +56,15 @@ Programming, game design, video games (specially RTS, ARPG, RPG), storytelling, 
 `May 2015 - May 2022`
 **7 years as a Full Stack Web Developer, Various Companies and Freelance, Remote and On-Site**
 
-- Code architecture.
-- Code reviews.
-- Research and presenting it.
-- Agile development.
-- Code versioning
-- Git
+- Code architecture
+- Code reviews
+- Research and Presenting
+- Documentation
+- Effective communication with technical and non-technical team members
+- Agile development
+- Code versioning (Git)
 - Mentoring juniors
+- JS/Typescript, Node.js HTML/CSS, PHP, SQL/NoSQL Docker, Bash
 
 <!-- ### Footer
 
