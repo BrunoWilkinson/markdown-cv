@@ -35,7 +35,7 @@ Programming, game design, video games (specially RTS, ARPG, RPG), storytelling, 
 - Implementing different features in parallel
 - Working with multiple departments (Design, Art, Prod, QA and Sound)
 - Find technical solutions for features requested by design, to achieve the best player experience
-- Plan and estimate the work
+- Plan/Estimate ensuring the right priorities are met
 
 `Nov 2022 - Jul 2023`
 **Junior UI Engineer, Omeda Studio, Remote**
@@ -53,8 +53,8 @@ Programming, game design, video games (specially RTS, ARPG, RPG), storytelling, 
 - Focus my learning on skills related to the video game industry, such as 3D maths, C++ and Unreal Engine.
 - Helping me with my career transition and become job ready.
 
-`May 2015 - May 2022`
-**7 years as a Full Stack Web Developer, Various Companies and Freelance, Remote and On-Site**
+`May 2015 - May 2022 - 7 years`
+**Senior Full Stack Web Developer, Various Companies and Freelance, Remote and On-Site**
 
 - Code architecture
 - Code reviews
