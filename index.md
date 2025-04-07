@@ -36,6 +36,7 @@ Programming, game design, video games (specially RTS, ARPG, RPG), storytelling, 
 - Working with multiple departments (Design, Art, Prod, QA and Sound)
 - Find technical solutions for features requested by design, to achieve the best player experience
 - Plan/Estimate, ensuring the right priorities are met
+- Localization
 
 `Nov 2022 - Jul 2023`
 **Junior UI Engineer, Omeda Studio, Remote**
