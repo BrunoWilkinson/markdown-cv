@@ -14,7 +14,7 @@ C++ Game Programmer
 
 ## Currently
 
-Working at Omeda Studio as a UI Engineer, C++
+Working at Omeda Studio as an UI Engineer, using Unreal Engine (C++/BP)
 
 ### Specialized in
 
@@ -29,6 +29,8 @@ Programming, game design, video games (specially RTS, ARPG, RPG), storytelling, 
 `Jul 2023 - Now`
 **UI Engineer, Omeda Studio, Remote**
 
+- Unreal Engine
+- Perforce
 - Console development (PS5/XSX with devkits)
 - Identifying workflow improvements
 - Organising code refactor
@@ -41,6 +43,8 @@ Programming, game design, video games (specially RTS, ARPG, RPG), storytelling, 
 `Nov 2022 - Jul 2023`
 **Junior UI Engineer, Omeda Studio, Remote**
 
+- Unreal Engine
+- Perforce
 - Explore Unreal Engine source code
 - Perforce discovery
 - Code reviews
