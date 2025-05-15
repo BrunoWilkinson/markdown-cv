@@ -53,8 +53,8 @@ Programming, game design, video games (specially RTS, ARPG, RPG), storytelling, 
 `Jul 2022 - Nov 2022`
 **Resident Game Programmer, Mastered, Remote**
 
-- Developed the project under the guidance of my mentor to apply industry standard practices.
-- Focus my learning on skills related to the video game industry, such as 3D maths, C++ and Unreal Engine.
+- Developed project under the guidance of my mentor to apply industry standard practices.
+- Focus my learning on skills related to the video game industry (3D maths, C++ and Unreal Engine)
 - Helping me with my career transition and become job ready.
 
 `May 2015 - May 2022`
