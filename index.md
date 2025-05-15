@@ -45,8 +45,7 @@ Programming, game design, video games (specially RTS, ARPG, RPG), storytelling, 
 
 - Unreal Engine
 - Perforce
-- Explore Unreal Engine source code
-- Perforce discovery
+- Explore/Learn UE source code
 - Code reviews
 - Documentation
 - Research and learning
