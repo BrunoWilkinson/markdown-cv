@@ -57,8 +57,8 @@ Programming, game design, video games (specially RTS, ARPG, RPG), storytelling, 
 - Focus my learning on skills related to the video game industry, such as 3D maths, C++ and Unreal Engine.
 - Helping me with my career transition and become job ready.
 
-`May 2015 - May 2022 - 7 years`
-**Senior Software Engineer, Companies/Freelance, Remote/On-Site**
+`May 2015 - May 2022`
+**Software Engineer, Companies/Freelance, Remote/On-Site**
 
 - Code architecture
 - Code reviews
