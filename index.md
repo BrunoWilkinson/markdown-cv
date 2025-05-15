@@ -58,7 +58,7 @@ Programming, game design, video games (specially RTS, ARPG, RPG), storytelling, 
 - Helping me with my career transition and become job ready.
 
 `May 2015 - May 2022 - 7 years`
-**Senior Full Stack Web Developer, Various Companies and Freelance, Remote and On-Site**
+**Senior Software Engineer, Companies/Freelance, Remote/On-Site**
 
 - Code architecture
 - Code reviews
