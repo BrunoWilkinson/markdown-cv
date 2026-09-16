@@ -14,7 +14,7 @@ C++ Game Programmer
 
 ## Currently
 
-Working at Omeda Studio as a Senior UI Engineer, using Unreal Engine (C++/BP)
+Self employed, working on my own projects
 
 ### Specialized in
 
@@ -22,11 +22,11 @@ C++ - Unreal Engine - UI/UX
 
 ### Research interests
 
-Programming, game design, video games (specially RTS, ARPG, RPG), storytelling, maths, fitness, history
+Programming, game design, video games, storytelling, maths, fitness, history
 
 ## Experience
 
-`Feb 2026 - now`
+`Feb 2026 - Jul 2026`
 **Senior UI Engineer, Omeda Studio, Remote**
 - Unreal Engine
 - Perforce
